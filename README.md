@@ -6,4 +6,6 @@ exploration of anomaly detection with the Isolation Forest Algorithm.
 
 Libraries used: Pytorch, torch.nn, pandas, numpy, sklearn, matplotlib, time, os, random, joblib, pathlib
 
+Link to demo video: https://youtu.be/mYcjEGL58d8
+
 Project by Syed Rizvi.
