@@ -1,10 +1,21 @@
 # AWS-ML-Hackathon
-Machine learning model approaches created for AWS-NVIDIA Environmental Hackathon, August 2020.
+This repository contains machine learning model approaches created for AWS-NVIDIA Environmental Hackathon, August 2020.
 
-Includes a main autoencoder data reconstruction approach for anomaly detection, as well as a side
-exploration of anomaly detection with the Isolation Forest Algorithm.
+# Approaches
+- Autoencoder time-series reconstruction for anomaly detection (Placed 3rd overall in competition)
+- Isolation Forest Algorithm
 
-Libraries used: Pytorch, torch.nn, pandas, numpy, sklearn, matplotlib, time, os, random, joblib, pathlib
+# Autoencoder Reconstruction Sample
+![Time Series Reconstruction](/screenshots/time_series_reconstruction.png)
+
+# Requirements
+- Pytorch
+- Pandas
+- Numpy
+- Sklearn
+- Matplotlib
+
+# Demo video
 Link to demo video: https://youtu.be/mYcjEGL58d8
 
 Main autoencoder approach placed 3rd in the Environmental Hackathon.
