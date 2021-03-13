@@ -1,6 +1,8 @@
 # AWS-ML-Hackathon
 This repository contains machine learning model approaches created for AWS-NVIDIA Environmental Hackathon, August 2020.
 
+Main autoencoder approach placed 3rd in the Environmental Hackathon.
+
 # Approaches
 - Autoencoder time-series reconstruction for anomaly detection (Placed 3rd overall in competition)
 - Isolation Forest Algorithm
@@ -18,5 +20,4 @@ This repository contains machine learning model approaches created for AWS-NVIDI
 # Demo video
 Link to demo video: https://youtu.be/mYcjEGL58d8
 
-Main autoencoder approach placed 3rd in the Environmental Hackathon.
 Project by Syed Rizvi.
